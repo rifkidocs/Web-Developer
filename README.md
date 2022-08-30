@@ -1,2 +1,2 @@
 # Wed Developer
-contain just of my projects
+contains only my project
