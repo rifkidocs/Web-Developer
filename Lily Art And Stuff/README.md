@@ -1,2 +1,2 @@
-#WebDeveloper
-this is my project
+# WebDeveloper
+this is my project for dicoding course
